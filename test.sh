@@ -1,7 +1,7 @@
 #!/bin/bash
 
-echo "hallo welt
+echo "hello world"
 
 echo "changed"
 
-echo "jetzt bin ich auch auf github"
+echo "now i am on github"
